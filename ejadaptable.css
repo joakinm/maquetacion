@@ -1,0 +1,48 @@
+.exp li{
+    color:blue;
+}
+.exp strong{
+    color: black;
+}
+
+@media (min-width: 1201px) {
+        #datospers{
+        width:30%;
+        float:left
+    }
+    .exp{
+        width:30%;
+        float:left
+    }
+}
+
+
+
+
+
+
+@media (min-width: 601px) and (max-width: 1200px) {
+    body {
+      font-family: Arial,sans-serif;
+    }
+  
+    #datospers {
+      float: left;
+      width: 30%;
+    }
+    
+    .exp {
+      float: left;
+      width: 70%;
+    }
+  }
+  
+@media (max-width:600 px)
+{
+    #datospers{
+        width:100%;
+    }
+    .exp{
+        width:100%;
+    }
+}

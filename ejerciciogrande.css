@@ -1,0 +1,48 @@
+#ppal{
+    text-align: center;
+}
+#contenedordetodo{
+    display:flex;
+}
+#columnalatizq{
+    width:20%;
+}
+#centro{
+    width: 60%;
+}
+#columnader{
+    width:20%;
+}
+#trescolumnas{
+    display: flex;
+}
+.cols3{
+    width:30%;
+    justify-content: space-around;
+}
+#coldespegadas2{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+.col2desp{
+    width:45%;
+}
+#columnaspegadas2{
+    display:flex;
+}
+.cols2peg{
+    width:45%;
+}
+#imgcolumna{
+    width:400px;
+    height:200px;
+}
+#imgvertical{
+    width:300px;
+    height:600px;
+}
+#botones{
+    border: dotted 1px;
+    margin-bottom: 10px;
+}
